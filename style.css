@@ -1,0 +1,31 @@
+.headerContainer {
+  background-color: #33394e;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.headContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  margin: 0 auto;
+}
+.ulContainer {
+  display: flex;
+  gap: 24px;
+  list-style: none;
+}
+.imgContainer {
+  width: 97px;
+  height: 22px;
+  margin: auto 0;
+}
+
+.ulContainer li a {
+  text-decoration: none;
+  color: #cdd4ec;
+}
+
+.ulContainer li a:hover {
+  color: #829bf3;
+}
